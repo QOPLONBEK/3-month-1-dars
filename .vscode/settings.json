@@ -6,5 +6,8 @@
             "savePath": "/css",
             "savePathReplacementPairs": null
         }
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
